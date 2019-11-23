@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="PlantSheetNumber.png" width="256" height="256">
+    <SubTexture name="PlantSheetNumber0001.png" x="0" y="0" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0002.png" x="47" y="0" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0003.png" x="94" y="0" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0004.png" x="141" y="0" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0005.png" x="188" y="0" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0006.png" x="0" y="26" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0007.png" x="47" y="26" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0008.png" x="94" y="26" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0009.png" x="141" y="26" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0010.png" x="188" y="26" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0011.png" x="0" y="52" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0012.png" x="47" y="52" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0013.png" x="94" y="52" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0014.png" x="141" y="52" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0015.png" x="188" y="52" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0016.png" x="0" y="78" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0017.png" x="47" y="78" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0018.png" x="94" y="78" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0019.png" x="141" y="78" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0020.png" x="188" y="78" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0021.png" x="0" y="104" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0022.png" x="47" y="104" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0023.png" x="94" y="104" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0024.png" x="141" y="104" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0025.png" x="188" y="104" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0026.png" x="0" y="130" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0027.png" x="47" y="130" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0028.png" x="94" y="130" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0029.png" x="141" y="130" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0030.png" x="188" y="130" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0031.png" x="0" y="156" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0032.png" x="47" y="156" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0033.png" x="94" y="156" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0034.png" x="141" y="156" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0035.png" x="188" y="156" width="47" height="26"/>
+    <SubTexture name="PlantSheetNumber0036.png" x="0" y="182" width="47" height="26"/>
+</TextureAtlas>

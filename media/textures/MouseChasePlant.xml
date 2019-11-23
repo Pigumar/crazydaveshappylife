@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="MouseChasePlant.png" width="512" height="256">
+    <SubTexture name="MouseChasePlant0001.png" x="0" y="0" width="103" height="108"/>
+    <SubTexture name="MouseChasePlant0002.png" x="103" y="0" width="103" height="108"/>
+    <SubTexture name="MouseChasePlant0003.png" x="206" y="0" width="103" height="108"/>
+    <SubTexture name="MouseChasePlant0004.png" x="309" y="0" width="103" height="108"/>
+    <SubTexture name="MouseChasePlant0005.png" x="0" y="108" width="103" height="108"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="PlantCardSheet.png" width="272" height="101">
+    <SubTexture name="PlantCardSheet0001.png" x="0" y="0" width="68" height="101"/>
+    <SubTexture name="PlantCardSheet0002.png" x="68" y="0" width="68" height="101"/>
+    <SubTexture name="PlantCardSheet0003.png" x="136" y="0" width="68" height="101"/>
+    <SubTexture name="PlantCardSheet0004.png" x="204" y="0" width="68" height="101"/>
+</TextureAtlas>

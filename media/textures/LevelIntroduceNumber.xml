@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="LevelIntroduceNumber.png" width="158" height="205">
+    <SubTexture name="LevelIntroduceNumber0001.png" x="0" y="0" width="68" height="40"/>
+    <SubTexture name="LevelIntroduceNumber0002.png" x="68" y="0" width="68" height="40"/>
+    <SubTexture name="LevelIntroduceNumber0003.png" x="0" y="40" width="68" height="40"/>
+    <SubTexture name="LevelIntroduceNumber0004.png" x="68" y="40" width="68" height="40"/>
+    <SubTexture name="LevelIntroduceNumber0005.png" x="0" y="80" width="68" height="40"/>
+    <SubTexture name="LevelIntroduceNumber0006.png" x="68" y="80" width="68" height="40"/>
+    <SubTexture name="LevelIntroduceNumber0007.png" x="0" y="120" width="68" height="40"/>
+    <SubTexture name="LevelIntroduceNumber0008.png" x="68" y="120" width="68" height="40"/>
+    <SubTexture name="LevelIntroduceNumber0009.png" x="0" y="160" width="68" height="40"/>
+</TextureAtlas>

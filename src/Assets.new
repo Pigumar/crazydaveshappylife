@@ -1,0 +1,275 @@
+package
+{
+	//import plant.PeacockFlower;
+	
+	//import starling.textures.Texture;
+	//import starling.textures.TextureAtlas;
+	//
+	public class Assets
+	{
+		// Bitmaps
+		[Embed(source = "../media/textures/Dream_BackGround_BackGround.png")]
+		public static const Dream_BackGround_Background:Class;
+		
+		
+		[Embed(source = "../media/textures/DaveZombie/DaveZombie_Shaking.png")]
+		public var DaveZombie_ShakingFrames:Class;
+		
+		
+		[Embed(source = "../media/textures/LevelNumber.png")]
+		public static const LevelNumber:Class;
+		
+		[Embed(source = "../media/textures/Dream_BackGround_LevelButton.png")]
+		public var Dream_BackGround_LevelButton:Class;
+		
+		[Embed(source = "../media/textures/Dream_BackGround_LevelButton_Touched.png")]
+		public var Dream_BackGround_LevelButton_Pressed:Class;
+		
+		[Embed(source = "../media/textures/Dream_BackGround.png")]
+		public var Dream_BackGround:Class;
+		
+		[Embed(source = "../media/textures/SunVase/PuttingSunVase.png")]
+		public var PuttingSunVase:Class;
+		
+		[Embed(source = "../media/textures/ReadySetPlants_SpriteSheet.png")]
+		public var ReadySetPlants_SpriteSheet:Class;
+		
+		[Embed(source = "../media/textures/LockedCard.png")]
+		public var LockedCard:Class;
+		
+		[Embed(source = "../media/textures/DaveZombie/DaveZombie_Cone_Shaking.png")]
+		public var DaveZombie_Cone_Shaking:Class;
+		
+		[Embed(source = "../media/textures/SunVase/SunVaseFront.png")]
+		public var SunVaseFront:Class;
+		
+		[Embed(source = "../media/textures/SunVase/SunVaseMiddle.png")]
+		public var SunVaseMiddle:Class;
+		
+		[Embed(source = "../media/textures/SunVase/SunVaseBack.png")]
+		public var SunVaseBack:Class;
+		
+		[Embed(source = "../media/textures/SunVase/SunVaseSunLightEnergy_Layer2.png")]
+		public var SunVaseSunLightEnergy_Layer2:Class;
+		
+		[Embed(source = "../media/textures/SunVase/SunVaseSunLightEnergy_Layer1.png")]
+		public var SunVaseSunLightEnergy_Layer1:Class;
+		
+		[Embed(source = "../media/textures/SunVase/SunVaseEnergyHide_DreamGround.png")]
+		public var SunVaseEnergyHide_DreamGround:Class;
+		
+		[Embed(source = "../media/textures/SunVase/SunVaseNumber.png")]
+		public var SunVaseNumber:Class;
+		
+		[Embed(source = "../media/textures/SunLight.png")]
+		public var SunLight:Class;
+		
+		[Embed(source = "../media/textures/PlantCardBody.png")]
+		public var PlantCardBody:Class;
+		
+		[Embed(source = "../media/textures/PlantSheetNumber.png")]
+		public var PlantSheetNumber:Class;
+		
+		[Embed(source = "../media/textures/PlantCardSheet.png")]
+		public var PlantCardSheet:Class;
+		
+		[Embed(source = "../media/textures/CardUpState.png")]
+		public var CardUpState:Class;
+		
+		[Embed(source = "../media/textures/CardOnState.png")]
+		public var CardOnState:Class;
+		
+		[Embed(source = "../media/textures/CardDownState.png")]
+		public var CardDownState:Class;
+		
+		[Embed(source = "../media/textures/MouseChasePlant.png")]
+		public var MouseChasePlant:Class;
+		
+		[Embed(source = "../media/textures/PlantSheetNumberWithOutSun.png")]
+		public var PlantSheetNumberWithOutSun:Class;
+		
+		[Embed(source = "../media/textures/CardNoSunUpState.png")]
+		public var CardNoSunUpState:Class;
+		
+		[Embed(source = "../media/textures/CardNoSunOnState.png")]
+		public var CardNoSunOnState:Class;
+		
+		[Embed(source = "../media/textures/CardNoSunDownState.png")]
+		public var CardNoSunDownState:Class;
+		
+		[Embed(source = "../media/textures/ReFleshBlank1.png")]
+		public var ReFleshBlank1:Class;
+		
+		[Embed(source = "../media/textures/ReFleshBlank2.png")]
+		public var ReFleshBlank2:Class;
+		
+		[Embed(source = "../media/textures/CardReFleshingOnState.png")]
+		public var CardReFleshingOnState:Class;
+		
+		[Embed(source = "../media/textures/CardReFleshingDownState.png")]
+		public var CardReFleshingDownState:Class;
+		
+		[Embed(source = "../media/textures/MCPlantP1.png")]
+		public var MCPlantP1:Class;
+		
+		[Embed(source = "../media/textures/MCPlantP2.png")]
+		public var MCPlantP2:Class;
+		
+		[Embed(source = "../media/textures/MCPlantP3.png")]
+		public var MCPlantP3:Class;
+		
+		[Embed(source = "../media/textures/MCPlantP4.png")]
+		public var MCPlantP4:Class;
+		
+		[Embed(source = "../media/textures/ReadyImagePutPlants.png")]
+		public var ReadyImagePutPlants:Class;
+		
+		[Embed(source = "../media/textures/PeaCockFlower/PeaCockFlower.png")]
+		public var PeaCockFlower:Class;
+		
+		[Embed(source = "../media/textures/LineButtonTexture.png")]
+		public static const LineButtonTexture:Class;
+		
+		[Embed(source = "../media/textures/DaveZombie/DaveZombie_MovingWays.png")]
+		public var DaveZombie_MovingWays:Class;
+		
+		[Embed(source = "../media/textures/DaveZombie/DaveZombie_Eating.png")]
+		public var DaveZombie_Eating:Class;
+		
+		[Embed(source = "../media/textures/WallNut/WallNut.png")]
+		public var WallNut:Class;
+		
+		[Embed(source = "../media/textures/WallNut/WallNut_Charred.png")]
+		public var WallNut_Charred:Class;
+		
+		[Embed(source = "../media/textures/WallNut/WallNut_Charred2.png")]
+		public var WallNut_Charred2:Class;
+		
+		[Embed(source = "../media/textures/Devil_Fern/Devil_Fern.png")]
+		public var Devil_Fern:Class;
+		
+		[Embed(source = "../media/textures/DaveZombie/DaveZombie_Cursed.png")]
+		public var DaveZombie_Cursed:Class;
+		
+		[Embed(source = "../media/textures/LotusSeedPodShooter/LotusSeedPodShooter.png")]
+		public var LotusSeedPodShooter:Class;
+		
+		[Embed(source = "../media/textures/LotusSeedPodShooter/LotusSeedPodShooter_Shoot.png")]
+		public var LotusSeedPodShooter_Shoot:Class;
+		
+		[Embed(source = "../media/textures/Shadow.png")]
+		public var Shadow:Class;
+		
+		[Embed(source = "../media/textures/Bullets/LotusSeedPodShooter_Bullet.png")]
+		public var LotusSeedPodShooter_Bullet:Class;
+		
+		[Embed(source = "../media/textures/Bullets/ExplodeLotusSeedPod.png")]
+		public var ExplodeLotusSeedPod:Class;
+		
+		
+		// XML
+		[Embed(source = "../media/textures/DaveZombie/DaveZombie_Shaking.xml", mimeType="application/octet-stream")]
+		public var DaveZombie_ShakingXML:Class;
+		
+		[Embed(source = "../media/textures/LevelNumber.xml", mimeType="application/octet-stream")]
+		public var LevelNumberXML:Class;
+		
+		[Embed(source = "../media/textures/ReadySetPlants_SpriteSheet.xml", mimeType="application/octet-stream")]
+		public var ReadySetPlants_SpriteSheetXML:Class;
+		
+		[Embed(source = "../media/textures/DaveZombie/DaveZombie_Cone_Shaking.xml", mimeType="application/octet-stream")]
+		public var DaveZombie_Cone_ShakingXML:Class;
+		
+		[Embed(source = "../media/textures/SunVase/SunVaseNumber.xml", mimeType="application/octet-stream")]
+		public var SunVaseNumberXML:Class;
+		
+		[Embed(source = "../media/textures/SunLight.xml", mimeType="application/octet-stream")]
+		public var SunLightXML:Class;
+		
+		[Embed(source = "../media/textures/PlantCardSheet.xml", mimeType="application/octet-stream")]
+		public var PlantCardSheetXML:Class;
+		
+		[Embed(source = "../media/textures/PlantSheetNumber.xml", mimeType="application/octet-stream")]
+		public var PlantSheetNumberXML:Class;
+		
+		[Embed(source = "../media/textures/MouseChasePlant.xml", mimeType="application/octet-stream")]
+		public var MouseChasePlantXML:Class;
+		
+		[Embed(source = "../media/textures/PlantSheetNumberWithOutSun.xml", mimeType="application/octet-stream")]
+		public var PlantSheetNumberWithOutSunXML:Class;
+		
+		[Embed(source = "../media/textures/MCPlantP1.xml", mimeType="application/octet-stream")]
+		public var MCPlantP1XML:Class;
+		
+		[Embed(source = "../media/textures/MCPlantP2.xml", mimeType="application/octet-stream")]
+		public var MCPlantP2XML:Class;
+		
+		[Embed(source = "../media/textures/MCPlantP3.xml", mimeType="application/octet-stream")]
+		public var MCPlantP3XML:Class;
+		
+		[Embed(source = "../media/textures/MCPlantP4.xml", mimeType="application/octet-stream")]
+		public var MCPlantP4XML:Class;
+		
+		[Embed(source = "../media/textures/ReadyImagePutPlants.xml", mimeType="application/octet-stream")]
+		public var ReadyImagePutPlantsXML:Class;
+		
+		[Embed(source = "../media/textures/PeaCockFlower/PeaCockFlower.xml", mimeType="application/octet-stream")]
+		public var PeaCockFlowerXML:Class;
+		
+		[Embed(source = "../media/textures/DaveZombie/DaveZombie_MovingWays.xml", mimeType="application/octet-stream")]
+		public var DaveZombie_MovingWaysXML:Class;
+		
+		[Embed(source = "../media/textures/DaveZombie/DaveZombie_Eating.xml", mimeType="application/octet-stream")]
+		public var DaveZombie_EatingXML:Class;
+		
+		[Embed(source = "../media/textures/WallNut/WallNut.xml", mimeType="application/octet-stream")]
+		public var WallNutXML:Class;
+		
+		[Embed(source = "../media/textures/WallNut/WallNut_Charred.xml", mimeType="application/octet-stream")]
+		public var WallNut_CharredXML:Class;
+		
+		[Embed(source = "../media/textures/WallNut/WallNut_Charred2.xml", mimeType="application/octet-stream")]
+		public var WallNut_Charred2XML:Class;
+		
+		[Embed(source = "../media/textures/Devil_Fern/Devil_Fern.xml", mimeType="application/octet-stream")]
+		public var Devil_FernXML:Class;
+		
+		[Embed(source = "../media/textures/LotusSeedPodShooter/LotusSeedPodShooter.xml", mimeType="application/octet-stream")]
+		public var LotusSeedPodShooterXML:Class;
+		
+		[Embed(source = "../media/textures/LotusSeedPodShooter/LotusSeedPodShooter_Shoot.xml", mimeType="application/octet-stream")]
+		public var LotusSeedPodShooter_ShootXML:Class;
+		
+		[Embed(source = "../media/textures/Bullets/ExplodeLotusSeedPod.xml", mimeType="application/octet-stream")]
+		public var ExplodeLotusSeedPodXML:Class;
+	}
+}
+/*
+Plants:
+1 : LotusSeedPodShooter
+2 : PeacockFlower
+3 : Wallnut
+4 : Devil'sFern
+
+ShowZombie:
+1 : DaveZombie
+2 : DaveZombie_WearCornCone
+
+LevelMessage(A[0]):
+1 : ClickedCard
+
+NeedToChange:
+other/Card/GetPlantNumber
+other/Card/Refleshfps
+other/Card/IfRefleshwithBegin
+other/Card/SendMassage
+other/Level/RIPMisX
+other/Level/RIPMisY
+other/Level/showZombieimage
+other/Level/SendMassage
+other/Level/GetCardNumberValue
+button/TouchToPlant/DGP
+button/TouchToPlant/MisofPutPX
+button/TouchToPlant/MisofPutPY
+button/Lines/GetZombie
+*/

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="DaveZombie_innerHand_Eating.png" width="467" height="388">
+    <SubTexture name="DaveZombie_innerHand_Eating0001.png" x="0" y="0" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0002.png" x="75" y="0" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0003.png" x="150" y="0" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0004.png" x="225" y="0" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0005.png" x="300" y="0" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0006.png" x="375" y="0" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0007.png" x="0" y="56" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0008.png" x="75" y="56" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0009.png" x="150" y="56" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0010.png" x="225" y="56" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0011.png" x="300" y="56" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0012.png" x="375" y="56" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0013.png" x="0" y="112" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0014.png" x="75" y="112" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0015.png" x="150" y="112" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0016.png" x="225" y="112" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0017.png" x="300" y="112" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0018.png" x="375" y="112" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0019.png" x="0" y="168" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0020.png" x="75" y="168" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0021.png" x="150" y="168" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0022.png" x="225" y="168" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0023.png" x="300" y="168" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0024.png" x="375" y="168" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0025.png" x="0" y="224" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0026.png" x="75" y="224" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0027.png" x="150" y="224" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0028.png" x="225" y="224" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0029.png" x="300" y="224" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0030.png" x="375" y="224" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0031.png" x="0" y="280" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0032.png" x="75" y="280" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0033.png" x="150" y="280" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0034.png" x="225" y="280" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0035.png" x="300" y="280" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0036.png" x="375" y="280" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0037.png" x="0" y="336" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0038.png" x="75" y="336" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0039.png" x="150" y="336" width="75" height="56"/>
+    <SubTexture name="DaveZombie_innerHand_Eating0040.png" x="225" y="336" width="75" height="56"/>
+</TextureAtlas>

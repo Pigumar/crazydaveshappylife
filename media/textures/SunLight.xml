@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="SunLight.png" width="1024" height="512">
+    <SubTexture name="SunLight0001.png" x="0" y="0" width="113" height="111"/>
+    <SubTexture name="SunLight0002.png" x="113" y="0" width="113" height="111"/>
+    <SubTexture name="SunLight0003.png" x="226" y="0" width="113" height="111"/>
+    <SubTexture name="SunLight0004.png" x="339" y="0" width="113" height="111"/>
+    <SubTexture name="SunLight0005.png" x="452" y="0" width="113" height="111"/>
+    <SubTexture name="SunLight0006.png" x="565" y="0" width="113" height="111"/>
+    <SubTexture name="SunLight0007.png" x="678" y="0" width="113" height="111"/>
+    <SubTexture name="SunLight0008.png" x="791" y="0" width="113" height="111"/>
+    <SubTexture name="SunLight0009.png" x="904" y="0" width="113" height="111"/>
+    <SubTexture name="SunLight0010.png" x="0" y="111" width="113" height="111"/>
+    <SubTexture name="SunLight0011.png" x="113" y="111" width="113" height="111"/>
+    <SubTexture name="SunLight0012.png" x="226" y="111" width="113" height="111"/>
+    <SubTexture name="SunLight0013.png" x="339" y="111" width="113" height="111"/>
+    <SubTexture name="SunLight0014.png" x="452" y="111" width="113" height="111"/>
+    <SubTexture name="SunLight0015.png" x="565" y="111" width="113" height="111"/>
+    <SubTexture name="SunLight0016.png" x="678" y="111" width="113" height="111"/>
+    <SubTexture name="SunLight0017.png" x="791" y="111" width="113" height="111"/>
+    <SubTexture name="SunLight0018.png" x="904" y="111" width="113" height="111"/>
+    <SubTexture name="SunLight0019.png" x="0" y="222" width="113" height="111"/>
+    <SubTexture name="SunLight0020.png" x="113" y="222" width="113" height="111"/>
+    <SubTexture name="SunLight0021.png" x="226" y="222" width="113" height="111"/>
+    <SubTexture name="SunLight0022.png" x="339" y="222" width="113" height="111"/>
+    <SubTexture name="SunLight0023.png" x="452" y="222" width="113" height="111"/>
+    <SubTexture name="SunLight0024.png" x="565" y="222" width="113" height="111"/>
+    <SubTexture name="SunLight0025.png" x="678" y="222" width="113" height="111"/>
+    <SubTexture name="SunLight0026.png" x="791" y="222" width="113" height="111"/>
+</TextureAtlas>

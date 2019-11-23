@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ReadyImagePutPlants.png" width="400" height="100">
+    <SubTexture name="ReadyImagePutPlants0001.png" x="0" y="0" width="100" height="100"/>
+    <SubTexture name="ReadyImagePutPlants0002.png" x="100" y="0" width="100" height="100"/>
+    <SubTexture name="ReadyImagePutPlants0003.png" x="200" y="0" width="100" height="100"/>
+    <SubTexture name="ReadyImagePutPlants0004.png" x="300" y="0" width="100" height="100"/>
+</TextureAtlas>

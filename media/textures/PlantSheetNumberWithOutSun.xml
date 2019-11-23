@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="PlantSheetNumberWithOutSun.png" width="256" height="256">
+    <SubTexture name="PlantSheetNumberWithOutSun0001.png" x="0" y="0" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0002.png" x="48" y="0" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0003.png" x="96" y="0" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0004.png" x="144" y="0" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0005.png" x="192" y="0" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0006.png" x="0" y="27" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0007.png" x="48" y="27" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0008.png" x="96" y="27" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0009.png" x="144" y="27" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0010.png" x="192" y="27" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0011.png" x="0" y="54" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0012.png" x="48" y="54" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0013.png" x="96" y="54" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0014.png" x="144" y="54" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0015.png" x="192" y="54" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0016.png" x="0" y="81" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0017.png" x="48" y="81" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0018.png" x="96" y="81" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0019.png" x="144" y="81" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0020.png" x="192" y="81" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0021.png" x="0" y="108" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0022.png" x="48" y="108" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0023.png" x="96" y="108" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0024.png" x="144" y="108" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0025.png" x="192" y="108" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0026.png" x="0" y="135" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0027.png" x="48" y="135" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0028.png" x="96" y="135" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0029.png" x="144" y="135" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0030.png" x="192" y="135" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0031.png" x="0" y="162" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0032.png" x="48" y="162" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0033.png" x="96" y="162" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0034.png" x="144" y="162" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0035.png" x="192" y="162" width="48" height="27"/>
+    <SubTexture name="PlantSheetNumberWithOutSun0036.png" x="0" y="189" width="48" height="27"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ExplodeLotusSeedPod.png" width="33" height="91">
+    <SubTexture name="ExplodeLotusSeedPod0001.png" x="0" y="0" width="31" height="26"/>
+    <SubTexture name="ExplodeLotusSeedPod0002.png" x="0" y="26" width="31" height="26"/>
+    <SubTexture name="ExplodeLotusSeedPod0003.png" x="0" y="52" width="31" height="26"/>
+</TextureAtlas>

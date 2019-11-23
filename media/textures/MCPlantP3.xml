@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="MCPlantP3.png" width="212" height="47">
+    <SubTexture name="MCPlantP30001.png" x="0" y="0" width="53" height="47"/>
+    <SubTexture name="MCPlantP30002.png" x="53" y="0" width="53" height="47"/>
+    <SubTexture name="MCPlantP30003.png" x="106" y="0" width="53" height="47"/>
+    <SubTexture name="MCPlantP30004.png" x="159" y="0" width="53" height="47"/>
+</TextureAtlas>

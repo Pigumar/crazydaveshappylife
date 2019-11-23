@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="DaveZombie_Hand_Eating.png" width="467" height="278">
+    <SubTexture name="DaveZombie_Hand_Eating0001.png" x="0" y="0" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0002.png" x="54" y="0" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0003.png" x="108" y="0" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0004.png" x="162" y="0" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0005.png" x="216" y="0" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0006.png" x="270" y="0" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0007.png" x="324" y="0" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0008.png" x="378" y="0" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0009.png" x="0" y="50" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0010.png" x="54" y="50" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0011.png" x="108" y="50" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0012.png" x="162" y="50" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0013.png" x="216" y="50" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0014.png" x="270" y="50" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0015.png" x="324" y="50" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0016.png" x="378" y="50" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0017.png" x="0" y="100" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0018.png" x="54" y="100" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0019.png" x="108" y="100" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0020.png" x="162" y="100" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0021.png" x="216" y="100" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0022.png" x="270" y="100" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0023.png" x="324" y="100" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0024.png" x="378" y="100" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0025.png" x="0" y="150" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0026.png" x="54" y="150" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0027.png" x="108" y="150" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0028.png" x="162" y="150" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0029.png" x="216" y="150" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0030.png" x="270" y="150" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0031.png" x="324" y="150" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0032.png" x="378" y="150" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0033.png" x="0" y="200" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0034.png" x="54" y="200" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0035.png" x="108" y="200" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0036.png" x="162" y="200" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0037.png" x="216" y="200" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0038.png" x="270" y="200" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0039.png" x="324" y="200" width="54" height="50"/>
+    <SubTexture name="DaveZombie_Hand_Eating0040.png" x="378" y="200" width="54" height="50"/>
+</TextureAtlas>

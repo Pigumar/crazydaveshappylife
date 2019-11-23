@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="DaveZombie_Shaking.png" width="512" height="1024">
+    <SubTexture name="DaveZombie_Shaking0001.png" x="0" y="0" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0002.png" x="77" y="0" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0003.png" x="154" y="0" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0004.png" x="231" y="0" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0005.png" x="308" y="0" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0006.png" x="385" y="0" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0007.png" x="0" y="126" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0008.png" x="77" y="126" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0009.png" x="154" y="126" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0010.png" x="231" y="126" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0011.png" x="308" y="126" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0012.png" x="385" y="126" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0013.png" x="0" y="252" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0014.png" x="77" y="252" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0015.png" x="154" y="252" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0016.png" x="231" y="252" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0017.png" x="308" y="252" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0018.png" x="385" y="252" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0019.png" x="0" y="378" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0020.png" x="77" y="378" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0021.png" x="154" y="378" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0022.png" x="231" y="378" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0023.png" x="308" y="378" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0024.png" x="385" y="378" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0025.png" x="0" y="504" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0026.png" x="77" y="504" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0027.png" x="154" y="504" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0028.png" x="231" y="504" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0029.png" x="308" y="504" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0030.png" x="385" y="504" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0031.png" x="0" y="630" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0032.png" x="77" y="630" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0033.png" x="154" y="630" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0034.png" x="231" y="630" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0035.png" x="308" y="630" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0036.png" x="385" y="630" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0037.png" x="0" y="756" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0038.png" x="77" y="756" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0039.png" x="154" y="756" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0040.png" x="231" y="756" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0041.png" x="308" y="756" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0042.png" x="385" y="756" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0043.png" x="0" y="882" width="77" height="126"/>
+    <SubTexture name="DaveZombie_Shaking0044.png" x="77" y="882" width="77" height="126"/>
+</TextureAtlas>
